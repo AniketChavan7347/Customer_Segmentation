@@ -118,7 +118,7 @@ The application generates:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Customer-Segmentation.git
+git clone https: https://github.com/AniketChavan7347/Customer_Segmentation
 ```
 
 ### Navigate to the Project Folder
