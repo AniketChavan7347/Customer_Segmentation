@@ -166,7 +166,7 @@ streamlit run app.py
 
 **Aniket Chavan**
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+GitHub: http://github.com/AniketChavan7347
 
 LinkedIn: https://www.linkedin.com/in/aniket-chavan-b494ab255
 
